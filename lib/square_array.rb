@@ -1,6 +1,8 @@
 
 numbers = [1, 2, 3]
-c
+new_array = []
+counter = 0
+
 def square_array(numbers)
   
   while numbers[counter] do
